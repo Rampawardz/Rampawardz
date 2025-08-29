@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td width="80%">
+    <td width="100%">
       <ul>
         <li>📜 Registered <b>intellectual property</b> with the Government of India  
           <br><i>“Modern Portfolio With Sleek and Smart Design”</i></li>
@@ -99,9 +99,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampawardz&layout=compact&theme=tokyonight" width="290"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rampawardz&theme=tokyonight" width="400"/>
+<p align="center" margin="10px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampawardz&layout=compact&theme=tokyonight" width="295"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rampawardz&theme=tokyonight" width="410"/>
 </p>
 
 ---
