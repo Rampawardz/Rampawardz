@@ -132,8 +132,10 @@
           <i>“Fake Profile Identification and Reporting for Social Media Platform”</i>  
           (Published in IEEE Xplore)</li> <br>
       </ul>
+      <div align="center">
         <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0" width="50%">
         <img src="https://i.ibb.co/20ZT43NB/confCert.jpg" alt="confCert" border="0" width="50%">
+      </div>
     </td>
   </tr>
 </table>
