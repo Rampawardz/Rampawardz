@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Ram Pawar
 </h1>
@@ -46,12 +44,12 @@
       </ul>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center">
       <img src="ROC.jpg" alt="Copyright Certificate" width="16%" style="margin:10px"/>
       <img src="ResearchPresented.jpg" alt="Research Paper Presentation" width="35%" style="margin:10px"/>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
@@ -62,7 +60,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Ram_pawar_01?theme=unicorn&ext=heatmap" width="400" />
-  <img src="TUF.png" width="295"/>
+<!--   <img src="TUF.png" width="295"/> -->
   
 </div>
 
@@ -74,7 +72,7 @@
 
 <div align="center">
   <a href="https://portfolio-backend-znrv.onrender.com">
-    <img src="Porfolio1.png" width="400"/>
+    <img src="https://icons8.comundefined" width="400"/>
   </a>
 </div>
 
