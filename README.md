@@ -31,9 +31,9 @@
 
 ## 🏆 Achievements & Highlights  
 
-<table>
+<table width="100%">
   <tr width="100%" padding="5px">
-    <td width="100%">
+    <td padding="10px">
       <ul>
         <li>📜 Registered <b>intellectual property</b> with the Government of India  
           <br><i>“Modern Portfolio With Sleek and Smart Design”</i></li>
