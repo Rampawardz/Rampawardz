@@ -32,7 +32,7 @@
 ## 🏆 Achievements & Highlights  
 
 <table>
-  <tr>
+  <tr width="100%" padding="5px">
     <td width="100%">
       <ul>
         <li>📜 Registered <b>intellectual property</b> with the Government of India  
@@ -100,8 +100,8 @@
 ## 📊 GitHub Stats
 
 <p align="center" margin="10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampawardz&layout=compact&theme=tokyonight" width="295"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rampawardz&theme=tokyonight" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampawardz&layout=compact&theme=tokyonight" width="295"/>
 </p>
 
 ---
