@@ -60,11 +60,8 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Ram_pawar_01?theme=unicorn&ext=heatmap" width="400" />
-<!--   <img src="TUF.png" width="295"/> -->
-  
+  <img src="https://i.ibb.co/hxDdsbwc/TUF.png" alt="TUF" width="295" border-radius="5%" style="margin-left:10px"/>
 </div>
-
-
 
 ---
 
