@@ -144,17 +144,15 @@
 
 
 
-
-
 ## 🔗 Connect With Me
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/ram-pawar-647580257/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rampawarpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rampawardz"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rampawardz&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</div>
 
