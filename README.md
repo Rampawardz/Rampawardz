@@ -33,14 +33,14 @@
 
 <table>
   <tr>
-    <td width="100%" height="300px">
+    <td width="100%" height="100px">
       <ul>
-        <li>📜 Registered <b>intellectual property</b> with the Government of India  
-          <br><i>“Modern Portfolio With Sleek and Smart Design”</i></li>
-        <li>📖 Presented and published a <b>research paper</b> in IEEE Xplore  
-          <br><i>“Fake Profile Identification and Reporting for Social Media Platform”</i>  
+        <li margin="2px">📜 Registered <b>intellectual property</b> with the Government of India  
+          <i>“Modern Portfolio With Sleek and Smart Design”</i></li>
+        <li margin="2px">📖 Presented and published a <b>research paper</b> in IEEE Xplore  
+          <i>“Fake Profile Identification and Reporting for Social Media Platform”</i>  
           (I2ITCON 2025, Pune)</li>
-        <li>🧩 Solved **200+ DSA problems** across platforms (LeetCode, TakeUForward & GeeksforGeeks)</li>
+        <li margin="2px">🧩 Solved **200+ DSA problems** across platforms (LeetCode, TakeUForward & GeeksforGeeks)</li>
       </ul>
     </td>
   </tr>
