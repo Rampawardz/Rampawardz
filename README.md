@@ -134,7 +134,7 @@
       </ul>
       <div align="center" display="flex">
         <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0" width="45%">
-        <img src="https://i.ibb.co/n8bqn27G/1597-Ram-Vijay-Pawar-page-0001.jpg" alt="certificate" border="0" width="47%>
+        <img src="https://i.ibb.co/n8bqn27G/1597-Ram-Vijay-Pawar-page-0001.jpg" alt="certificate" border="0" width="47.5%>
       </div>
     </td>
   </tr>
