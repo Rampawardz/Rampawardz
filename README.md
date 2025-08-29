@@ -131,9 +131,9 @@
         <li>📖 Presented and published research paper at <b>I2ITCON 2025, Pune</b>  
           <i>“Fake Profile Identification and Reporting for Social Media Platform”</i>  
           (Published in IEEE Xplore)</li> <br>
-        <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="2px" width="400px">
-        <img src="https://i.ibb.co/NnG7JNHN/Whats-App-Image-2025-07-05-at-10-43-34-b7ee1aff.jpg" alt="Whats-App-Image-2025-07-05-at-10-43-34-b7ee1aff" border="2px" width="400px">
       </ul>
+        <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0">
+        <img src="https://i.ibb.co/20ZT43NB/confCert.jpg" alt="confCert" border="0">
     </td>
   </tr>
 </table>
