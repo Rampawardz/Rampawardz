@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td width="100%" height="100px">
+    <td width="100%" height="300px">
       <ul>
         <li>📜 Registered <b>intellectual property</b> with the Government of India  
           <br><i>“Modern Portfolio With Sleek and Smart Design”</i></li>
