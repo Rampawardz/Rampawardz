@@ -133,8 +133,8 @@
           (Published in IEEE Xplore)</li> <br>
       </ul>
       <div align="center" display="flex">
-        <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0" width="40%">
-        <img src="https://i.ibb.co/20ZT43NB/confCert.jpg" alt="confCert" border="0" width="40%">
+        <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0" width="45%">
+        <img src="https://i.ibb.co/n8bqn27G/1597-Ram-Vijay-Pawar-page-0001.jpg" alt="certificate" border="0" width="45%>
       </div>
     </td>
   </tr>
