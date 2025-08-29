@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td width="100%">
-      <ul>
+      <ul align="center">
         <li>📜 Registered <b>intellectual property</b> with the Government of India  
           <br><i>“Modern Portfolio With Sleek and Smart Design”</i></li>
         <li>📖 Presented and published a <b>research paper</b> in IEEE Xplore  
@@ -100,7 +100,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rampawardz&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rampawardz&layout=compact&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rampawardz&layout=compact&theme=tokyonight" width="290"/>
 </p>
 
