@@ -72,7 +72,7 @@
 
 <div align="center">
   <a href="https://portfolio-backend-znrv.onrender.com">
-    <img src="https://img.icons8.com/?size=100&id=ognMDWHTIaDL&format=png&color=000000" width="400"/>
+    <img src="https://img.icons8.com/?size=100&id=ognMDWHTIaDL&format=png&color=000000" width="200"/>
   </a>
 </div>
 
