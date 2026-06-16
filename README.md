@@ -98,7 +98,8 @@
 <table align="center" cellpadding="10">
   <tr>
     <td align="center" width="150">
-      <img src="https://img.icons8.com/?size=100&id=lK1S47YvSg6p&format=png&color=000000" width="60"/><br>
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7c228433-0ca6-44be-8ee8-7179c1868b65" />
+<br>
       <strong>Java Programming</strong><br>
       <em>IIT Bombay (Spoken Tutorial)</em>
     </td>
