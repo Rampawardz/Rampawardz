@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Final+Year+Computer+Engineer+from+JSPM'S+RSCOE+Pune;200%2B+DSA+Problems+Solved+%7C+Full+Stack+Dev+%7C+Research+and+Dev+;Always+Learning+%7C+Building+%7C+Contributing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Computer+Engineering+Graduate+from+JSPM'S+RSCOE+Pune;Java+Full+Stack+Developer+%7C+Aspiring+Backend+Engineer;200%2B+DSA+Problems+Solved+%7C+IEEE+Research+Author" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,11 +14,12 @@
   <tr>
     <td width="50%">
       <ul>
-        <li>🎓 Final Year <b>B.Tech (Computer Engineering)</b> @ JSPM'S RSCOE, Pune</li>
-        <li>💡 Focus: <b>Software Development</b></li>
-        <li>👨‍💻 Languages: C++, JavaScript</li>
-        <li>🧩 Solved <b>200+ DSA</b> Problems on LeetCode, TUF & GFG</li>
-        <li>🚀 Exploring: <b>Full-Stack Systems, R&D</b></li>
+        <li>🎓 <b>Computer Engineering Graduate</b> @ JSPM'S RSCOE, Pune</li>
+        <li>💼 Experience: <b>Java Full Stack Trainee Developer</b></li>
+        <li>💡 Core Focus: <b>Backend Engineering & Multi-Layered Architectures</b></li>
+        <li>👨‍💻 Languages & Frameworks: <b>Java, SQL, Spring Boot, Hibernate</b></li>
+        <li>🧩 Solved <b>200+ DSA</b> Problems across LeetCode, TUF & Neetcode</li>
+        <li>🚀 Passionate About: Secure, Scalable Web Systems & R&D</li>
       </ul>
     </td>
     <td width="50%">
@@ -35,24 +36,32 @@
   <tr>
     <td width="100%" height="100px">
       <ul>
-        <li margin="2px">📜 Registered <b>intellectual property</b> with the Government of India  
-          <i>“Modern Portfolio With Sleek and Smart Design”</i></li>
-        <li margin="2px">📖 Presented and published a <b>research paper</b> in IEEE Xplore  
-          <i>“Fake Profile Identification and Reporting for Social Media Platform”</i>  
-          (I2ITCON 2025, Pune)</li>
-        <li margin="2px">🧩 Solved **200+ DSA problems** across platforms (LeetCode, TakeUForward & GeeksforGeeks)</li>
+        <li margin="2px">📜 Registered <b>2 Technology Projects under Indian Copyright Law</b> for proprietary software validation, including <i>“Modern Portfolio With Sleek and Smart Design”</i></li>
+        <li margin="2px">📖 Presented and published an <b>IEEE research paper</b> in IEEE Xplore: <i>“Fake Profile Identification and Reporting for Social Media Platform”</i> (I2ITCON 2025, Pune)</li>
+        <li margin="2px">🧩 Solved <b>200+ DSA problems</b> across platforms to sharpen algorithmic thinking</li>
       </ul>
     </td>
   </tr>
-<!--   <tr>
-    <td align="center">
-      <img src="ROC.jpg" alt="Copyright Certificate" width="16%" style="margin:10px"/>
-      <img src="ResearchPresented.jpg" alt="Research Paper Presentation" width="35%" style="margin:10px"/>
-    </td>
-  </tr> -->
 </table>
 
+---
 
+## 💼 Featured Projects
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🛡️ **Fake Profile Identification** | Built a secure backend REST API with user authentication separating complex business logic from entities. Validated with an IEEE paper and Indian Copyright. | Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL |
+| 📚 **Online Bookstore System** | Designed a robust backend isolating workflows via Controller, Service, and DAO layers. Features dynamic cart inventory verification, cryptographic password hashing (PBKDF2), and Razorpay API verification. | Java, JDBC, Servlets, MySQL, Razorpay API, Java Filters |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,maven,linux,postman" />
+  </a>
+</p>
 
 ---
 
@@ -68,29 +77,10 @@
 ## 🌐 My Portfolio 
 
 <div align="center">
-  <a href="https://portfolio-backend-znrv.onrender.com">
+  <a href="https://rampawar.onrender.com">
     <img src="https://img.icons8.com/?size=100&id=ognMDWHTIaDL&format=png&color=000000" width="200"/>
   </a>
 </div>
-
----
-
-
-<!-- ## 💼 Featured Projects
-
-  | Project | Description | Tech Stack |
-  |--------|-------------|------------|
-  | 💸 **Smart Expense Splitter** | Debt Minimization using Graphs (Java) | Java, Collections, CLI |
-  | 🔗 **D-Drive** | Blockchain file storage using IPFS & Smart Contracts | Solidity, IPFS, Hardhat |
-  | 🌱 **Happy Day Foundation** | Donation platform for NGOs with Razorpay | Node.js, MongoDB, HTML |
-
---- -->
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,mysql,git,github,html,css" />
-</p>
 
 ---
 
@@ -107,15 +97,15 @@
 
 <table align="center" cellpadding="10">
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/120/000000/external-algorithm-coding-and-development-flat-flat-juicy-fish.png" width="60"/><br>
-      <strong>JavaScript with HTML5, CSS3</strong><br>
-      Udemy
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/?size=100&id=lK1S47YvSg6p&format=png&color=000000" width="60"/><br>
+      <strong>Java Programming</strong><br>
+      <em>IIT Bombay (Spoken Tutorial)</em>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.icons8.com/?size=100&id=pijxxzc78ZdO&format=png&color=000000" width="60"/><br>
       <strong>Web Development</strong><br>
-      EduSkills Academy
+      <em>EduSkills Academy</em>
     </td>
   </tr>
 </table>
@@ -128,12 +118,12 @@
   <tr>
     <td width="100%">
       <ul>
-        <li>📖 Presented and published research paper at <b>I2ITCON 2025, Pune</b>  
-          <i>“Fake Profile Identification and Reporting for Social Media Platform”</i>  
-          (Published in IEEE Xplore)</li> <br>
+        <li>📖 Presented and published research paper at <b>I2ITCON 2025, Pune</b><br>
+          <i>“Fake Profile Identification and Reporting for Social Media Platform”</i> (Published in IEEE Xplore)</li>
       </ul>
-      <div align="center" display="flex">
-        <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0" width="45%">
+      <br>
+      <div align="center">
+        <img src="https://i.ibb.co/C5wH2ssG/Research-Presented.jpg" alt="Research-Presented" border="0" width="45%" style="margin-right:10px;">
         <img src="https://i.ibb.co/n8bqn27G/1597-Ram-Vijay-Pawar-page-0001.jpg" alt="certificate" border="0" width="47.5%">
       </div>
     </td>
@@ -145,7 +135,7 @@
 ## 🔗 Connect With Me
 <div width="100%" align="center">
 <p align="center">
-  <a href="https://www.linkedin.com/in/ram-pawar-647580257/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ramvijaypawar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rampawarpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rampawardz"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -154,5 +144,3 @@
   <img src="https://komarev.com/ghpvc/?username=Rampawardz&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 </div>
-
----
