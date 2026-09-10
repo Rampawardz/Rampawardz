@@ -165,7 +165,7 @@
       <em>IIT Bombay (Spoken Tutorial) | Distinction | 82.50% | February 2024</em>
     </td>
     <td align="center" width="50%">
-      <img src="./README_assets/certificates/eduskill.jpg" width="95%" alt="Web Development"/>
+      <img src="./README_assets/certificates/eduskill.jpg" width="65%" alt="Web Development"/>
       <br><br>
       <strong>Web Development</strong><br>
       <em>EduSkills Academy</em>
@@ -175,9 +175,9 @@
 
 ### 🎯 Additional Professional Credentials
 
-- **Web Development Internship** — Cognifyz Technologies, June 2025 to July 2025. fileciteturn1file6L3-L12
+- **Java Full-Stack Internship** — Kiran Academy, Dec 2025 to June 2026.
 - **National-Level Hackathon Participation** — AVINYA 3.0, a 24-hour hackathon held on 5th and 6th February 2025 at JSPM's RSCOE, with team members Atharva Shinde, Nikhil Tarate, and Ram Pawar.
-- **National-Level Project Competition Participation** — Logica 4.0, held at JSPM's RSCOE in March 2025.
+- **National-Level Project Competition Participation** — Logica 4.0, a national-level project competition held at JSPM's RSCOE in March 2025.
 
 ## 🎤 Conferences
 
