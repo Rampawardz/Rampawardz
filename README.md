@@ -117,10 +117,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./README_assets/certificates/JavaFullStackCourse.png" width="95%" alt="Udemy JavaScript, HTML5 and CSS3 Certificate"/>
+      <img src="./README_assets/certificates/JavaFullStackCourse.png" width="95%" alt="Kiran Academy Java Full Stack Certificate"/>
       <br><br>
-      <strong>Complete JavaScript with HTML5, CSS3 from Zero to Expert</strong><br>
-      <em>Udemy | Completed April 2024</em>
+      <strong>Java Full Stack</strong><br>
+      <em>Kiran Academy | Course Completion | May 2026</em>
     </td>
     <td align="center" width="50%">
       <img src="./README_assets/certificates/cloud-computing-nasscom.png" width="95%" alt="NASSCOM Cloud Computing Engineering Certificate"/>
@@ -137,10 +137,10 @@
       <em>Udemy | Completed April 2024</em>
     </td>
     <td align="center" width="50%">
-      <img src="./README_assets/certificates/Infosys.png" width="95%" alt="NASSCOM Cloud Computing Engineering Certificate"/>
+      <img src="./README_assets/certificates/Infosys.png" width="95%" alt="Infosys Spring AI and Amazon Bedrock Certificate"/>
       <br><br>
-      <strong>Certificate Program in Cloud Computing Engineering (Azure / AWS)</strong><br>
-      <em>NASSCOM | Gold Category | 97% | June 2026</em>
+      <strong>Build Smarter Java Applications: Spring AI and Amazon Bedrock in Action</strong><br>
+      <em>Infosys | Springboard | June 2026</em>
     </td>
   </tr>
   <tr>
