@@ -145,13 +145,13 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/7c228433-0ca6-44be-8ee8-7179c1868b65" width="140" alt="Java Programming Certificate"/>
+      <img src="./README_assets/certificates/java.png" width="140" alt="Java Programming Certificate"/>
       <br><br>
       <strong>Java Programming</strong><br>
       <em>IIT Bombay (Spoken Tutorial) | Distinction | 82.50% | February 2024</em>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/?size=100&id=pijxxzc78ZdO&format=png&color=000000" width="80" alt="Web Development"/>
+      <img src="./README_assets/certificates/eduskill.jpg" width="80" alt="Web Development"/>
       <br><br>
       <strong>Web Development</strong><br>
       <em>EduSkills Academy</em>
