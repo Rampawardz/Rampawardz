@@ -187,21 +187,21 @@
 
 ## 🔗 Connect With Me
 
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/ramvijaypawar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:rampawarpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/Rampawardz"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+<div width="100%" align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/ramvijaypawar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rampawarpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rampawardz"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-  <p>
+<p>
     <a href="https://orcid.org/0009-0002-4204-9024">
       <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" width="16px"/>
       ORCID
     </a>
-  </p>
+</p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Rampawardz&label=Profile%20views&color=0e75b6&style=flat" />
-  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rampawardz&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 </div>
