@@ -103,7 +103,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rampawardz&theme=tokyonight" width="410" alt="GitHub streak statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampawardz&layout=compact&theme=tokyonight" width="295" alt="Top languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampawardz&layout=compact&theme=tokyonight" width="295" alt="Top languages"/> -->
 </p>
 
 ---
@@ -117,13 +117,27 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./README_assets/certificates/udemy.jpg" width="95%" alt="Udemy JavaScript, HTML5 and CSS3 Certificate"/>
+      <img src="./README_assets/certificates/JavaFullStackCourse.png" width="95%" alt="Udemy JavaScript, HTML5 and CSS3 Certificate"/>
       <br><br>
       <strong>Complete JavaScript with HTML5, CSS3 from Zero to Expert</strong><br>
       <em>Udemy | Completed April 2024</em>
     </td>
     <td align="center" width="50%">
       <img src="./README_assets/certificates/cloud-computing-nasscom.png" width="95%" alt="NASSCOM Cloud Computing Engineering Certificate"/>
+      <br><br>
+      <strong>Certificate Program in Cloud Computing Engineering (Azure / AWS)</strong><br>
+      <em>NASSCOM | Gold Category | 97% | June 2026</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./README_assets/certificates/udemy.jpg" width="95%" alt="Udemy JavaScript, HTML5 and CSS3 Certificate"/>
+      <br><br>
+      <strong>Complete JavaScript with HTML5, CSS3 from Zero to Expert</strong><br>
+      <em>Udemy | Completed April 2024</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="./README_assets/certificates/Infosys.png" width="95%" alt="NASSCOM Cloud Computing Engineering Certificate"/>
       <br><br>
       <strong>Certificate Program in Cloud Computing Engineering (Azure / AWS)</strong><br>
       <em>NASSCOM | Gold Category | 97% | June 2026</em>
@@ -145,13 +159,13 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./README_assets/certificates/java.png" width="140" alt="Java Programming Certificate"/>
+      <img src="./README_assets/certificates/java.png" width="95%" alt="Java Programming Certificate"/>
       <br><br>
       <strong>Java Programming</strong><br>
       <em>IIT Bombay (Spoken Tutorial) | Distinction | 82.50% | February 2024</em>
     </td>
     <td align="center" width="50%">
-      <img src="./README_assets/certificates/eduskill.jpg" width="80" alt="Web Development"/>
+      <img src="./README_assets/certificates/eduskill.jpg" width="95%" alt="Web Development"/>
       <br><br>
       <strong>Web Development</strong><br>
       <em>EduSkills Academy</em>
